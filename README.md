@@ -12,7 +12,7 @@ Quick implementation of a containerized Tesseract OCR reader with polish languag
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Cybernetic-Ransomware/___
+    git clone https://github.com/Cybernetic-Ransomware/template_tesserac_ocr_python_api.git
     ```
 2. Run Docker Desktop and build the image:
     ```bash
